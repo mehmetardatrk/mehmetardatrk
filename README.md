@@ -19,4 +19,5 @@ School: Middle East Technical University / Mechanical Engineering
 Field: Mechatronics Engineering & Autonomous Systems
 
 GitHub: @mehmetardatrk
+
 Linkedin: www.linkedin.com/in/mehmet-arda-türk-053543286
