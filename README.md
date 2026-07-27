@@ -13,7 +13,9 @@ Computer Vision & Perception: Real-time object detection, environmental sensing,
 Simulation & Modeling: Virtual prototyping, kinematic configuration, and algorithm testing within robotics simulation environments.
 
 Contact & Professional Profile
+
 Name: Mehmet Arda Türk
+
 School: Middle East Technical University / Mechanical Engineering
 
 Field: Mechatronics Engineering & Autonomous Systems
