@@ -14,7 +14,9 @@ Simulation & Modeling: Virtual prototyping, kinematic configuration, and algorit
 
 Contact & Professional Profile
 Name: Mehmet Arda Türk
+School: Middle East Technical University / Mechanical Engineering
 
 Field: Mechatronics Engineering & Autonomous Systems
 
-GitHub: @mehmetardaturk
+GitHub: @mehmetardatrk
+Linkedin: www.linkedin.com/in/mehmet-arda-türk-053543286
