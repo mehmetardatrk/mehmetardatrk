@@ -2,20 +2,20 @@ Mehmet Arda Türk
 ----------------------------------------------------------
 Welcome to my professional portfolio and open-source repository. I am an engineering student specializing in mechatronics, autonomous systems, and robotics, with a core focus on intelligent control architectures, embedded hardware development, and computer vision.
 
-Core Expertise & Technical Focus Autonomous Systems & Robotics: 
+Technical Focus: Autonomous Systems & Robotics 
 ----------------------------------------------------------
 Research, simulation, and implementation of navigation, path planning, and trajectory tracking algorithms for mobile platforms.
 
-Embedded Systems & Firmware:
+Embedded Systems & Firmware
 ----------------------------------------------------------
 Hardware prototyping, sensor integration, and firmware development using microcontrollers.
 
-Computer Vision & Perception:
+Computer Vision & Perception
 ----------------------------------------------------------
 Real-time object detection, environmental sensing, and image processing utilizing modern vision frameworks.
 
-Simulation & Modeling:
-----------------------------------------------------------
+Simulation & Modeling
+---------------------------------------------------------
 Virtual prototyping, kinematic configuration, and algorithm testing within robotics simulation environments.
 
 Contact & Professional Profile
