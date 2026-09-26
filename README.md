@@ -4,18 +4,12 @@ Welcome to my professional portfolio and open-source repository. I am an enginee
 
 Technical Focus: Robotics 
 ----------------------------------------------------------
-Research, simulation, and implementation of navigation, path planning, and trajectory tracking algorithms for mobile platforms.
-
-Embedded Systems & Firmware
-----------------------------------------------------------
-Hardware prototyping, sensor integration, and firmware development using microcontrollers.
+Research, simulation, and implementation of navigation, path planning, and trajectory tracking algorithms for mobile platforms. Hardware prototyping, sensor integration, and firmware development using microcontrollers.
 
 Contact & Professional Profile
 ----------------------------------------------------------
 Name: Mehmet Arda Türk
 
 Education: BSc. Mechanical Engineering & Minor in Mechatronics at Middle East Technical University
-
-Field: Mechatronics, Robotics
 
 Linkedin: www.linkedin.com/in/mehmet-arda-türk-053543286
