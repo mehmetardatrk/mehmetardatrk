@@ -11,5 +11,3 @@ Contact & Professional Profile
 Name: Mehmet Arda Türk
 
 Education: BSc. Mechanical Engineering & Minor in Mechatronics at Middle East Technical University
-
-Linkedin: www.linkedin.com/in/mehmet-arda-türk-053543286
