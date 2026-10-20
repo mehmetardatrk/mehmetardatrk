@@ -8,6 +8,6 @@ Research, simulation, and implementation of navigation, path planning, and traje
 
 Contact & Professional Profile
 ----------------------------------------------------------
-Name: Mehmet Arda Türk
+Mail: turkmehmetarda@gmail.com
 
 Education: BSc. Mechanical Engineering & Minor in Mechatronics at Middle East Technical University
