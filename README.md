@@ -1,6 +1,6 @@
 Mehmet Arda Türk
 ----------------------------------------------------------
-Welcome to my professional portfolio and open-source repository. I am an engineering student specializing in mechatronics, autonomous systems, and robotics, with a core focus on intelligent control architectures, embedded hardware development, and computer vision.
+Welcome to my professional portfolio and open-source repository. I am an engineering student specializing in mechatronics, autonomous systems, and robotics, with a core focus on intelligent control architectures.
 
 Contact & Professional Profile
 ----------------------------------------------------------
